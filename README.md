@@ -1,4 +1,4 @@
-# My Own MS in Computer Science
+# <div align="center">My Own MS in Computer Science</div>
 
 This is My Own CS Master's Degree
 
